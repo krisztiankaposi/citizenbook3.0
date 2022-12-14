@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Header.css";
-import logo from './pictures/ita2.jpg';
+import logo from './pictures/cb1.jpg';
 import SearchIcon from '@material-ui/icons/Pageview';
 import FlagIcon from '@material-ui/icons/FlagRounded';
 import HomeIcon from '@material-ui/icons/HouseRounded';

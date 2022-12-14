@@ -4,7 +4,7 @@ padding:15px 20px;
 justify-content: space-between;
 
 position: sticky;
-background-color: aquamarine;
+background-color: rgb(35, 62, 64);
 z-index: 40px;;
 top:0;
 box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 75);
@@ -24,7 +24,7 @@ box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 75);
 }
 
 .header__left> img{
-    height:40px;
+    height:60px;
 }
 .header__input>input{
     border:none;
@@ -38,10 +38,10 @@ box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 75);
 }
 
 .header__option>.MuiSvgIcon-root{
-    color:brown
+    color:rgb(24, 174, 197)
 }
 .header__option:hover>.MuiSvgIcon-root{
-    color:aqua
+    color:rgb(26, 8, 118)
 }
 .header__option{
     display:flex;
