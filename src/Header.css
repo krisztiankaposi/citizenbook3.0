@@ -69,3 +69,10 @@ box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 75);
 .header__right{
     display:flex;
 }
+.header__option--active> .MuiSvgIcon-root  {
+color:rgb(155, 155, 215);
+}
+
+.header__option--active{
+    border-bottom: 4px solid rgb(78, 114, 181)
+}

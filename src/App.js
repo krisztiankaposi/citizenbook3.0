@@ -2,6 +2,7 @@ import React from "react";
 import './App.css';
 import Header from "./Header";
 import Snowfall from 'react-snowfall';
+import Sidebar from "./Sidebar";
 
 function App() {
   return (
@@ -19,6 +20,12 @@ snowFlakeCount={80}
     />
       
     <Header/>
+
+<div className="app__body">
+<Sidebar/>
+</div>
+
+
     </div>
   );
 }
