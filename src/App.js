@@ -3,6 +3,9 @@ import './App.css';
 import Header from "./Header";
 import Snowfall from 'react-snowfall';
 import Sidebar from "./Sidebar";
+import Feed from "./Feed";
+import Widgets from "./Widgets";
+
 
 function App() {
   return (
@@ -15,7 +18,7 @@ function App() {
           height:'100vh'
         }
       }
-snowFlakeCount={80}
+snowFlakeCount={10}
 
     />
       
@@ -23,6 +26,9 @@ snowFlakeCount={80}
 
 <div className="app__body">
 <Sidebar/>
+<Feed/>
+<Widgets/>
+
 </div>
 
 

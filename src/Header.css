@@ -4,7 +4,7 @@ padding:15px 20px;
 justify-content: space-between;
 
 position: sticky;
-background-color: rgb(35, 62, 64);
+background-color:transparent;
 z-index: 40px;;
 top:0;
 box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 75);

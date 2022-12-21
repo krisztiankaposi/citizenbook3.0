@@ -2,6 +2,9 @@ body{
     background:url("./pictures/backgr.jpeg") center /cover no-repeat;
 margin:0;
 padding:0;
-height:100vh;
 
+display:flex;
+}
+.app__body {
+    display:flex;
 }
